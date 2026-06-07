@@ -4,7 +4,7 @@ Analyzes trending topics, hashtags, sentiment
 and engagement patterns across 6 platforms.
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_URL)
+[Click here](https://social-trend-analyzer-4qulzfdaed9cwz8rdvk2ym.streamlit.app)
 
 ## Features
 - Top trending hashtags visualization
